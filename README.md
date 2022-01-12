@@ -1,4 +1,7 @@
 <div align="center">
+	
+**[View on DevForum](https://devforum.roblox.com/t/solar-admin-system-lightweight-command-bar/1624370)**
+
   
 # Solar Admin System :sparkles:
 **Beta Release v0.1**
