@@ -1,3 +1,5 @@
+## REPO HAS BEEN MOVED: [solar-rbx/Solar](https://github.com/solar-rbx/Solar)
+
 # About Solar
 
 Solar is an admin system designed primarily for developers.
